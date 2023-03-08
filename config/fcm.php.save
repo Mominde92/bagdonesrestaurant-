@@ -1,0 +1,7 @@
+<?php0
+
+// config/fcm.php
+
+return [
+    'token' => "AAAA5qf7Rrg:APA91bEA9YWCMQg26bGyUsVNlHJ6gvXAUIUpy1lZGcWVyWrZGEJjrJ-qS_IXQtWqaHmS2t_XYNQYSr_ZJ1lUEPbxS_DX-lbwuZircvjmhaY4UhkESRKWI-AwCyuL49XEIMpKf6Qndee6",
+];
